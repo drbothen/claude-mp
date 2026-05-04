@@ -1,0 +1,30 @@
+{
+  "name": "claude-marketplace",
+  "owner": {
+    "name": "drbothen"
+  },
+  "metadata": {
+    "description": "drbothen's Claude Code plugin marketplace — VSDD factory and more."
+  },
+  "plugins": [
+    {
+      "name": "vsdd-factory",
+      "version": "1.0.0-rc.6",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/drbothen/vsdd-factory.git",
+        "path": "plugins/vsdd-factory",
+        "ref": "main"
+      },
+      "description": "Verified Spec-Driven Development (VSDD) dark factory for software — full SDLC pipeline: brownfield ingest, spec crystallization, story decomposition, TDD delivery, adversarial review, holdout evaluation, formal verification, and release gating.",
+      "category": "sdlc",
+      "tags": [
+        "vsdd",
+        "spec-driven",
+        "tdd",
+        "factory",
+        "sdlc"
+      ]
+    }
+  ]
+}
