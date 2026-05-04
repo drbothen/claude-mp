@@ -1,4 +1,4 @@
-# claude-marketplace
+# claude-mp
 
 drbothen's Claude Code plugin marketplace.
 
@@ -7,8 +7,8 @@ drbothen's Claude Code plugin marketplace.
 In a Claude Code session:
 
 ```
-/plugin marketplace add drbothen/claude-marketplace
-/plugin install <plugin-name>@claude-marketplace
+/plugin marketplace add drbothen/claude-mp
+/plugin install <plugin-name>@claude-mp
 /reload-plugins
 ```
 
@@ -19,7 +19,7 @@ In a Claude Code session:
 Verified Spec-Driven Development (VSDD) dark factory for software. Full SDLC pipeline: brownfield ingest, spec crystallization, story decomposition, TDD delivery, adversarial review, holdout evaluation, formal verification, and release gating.
 
 - Repo: <https://github.com/drbothen/vsdd-factory>
-- Install: `/plugin install vsdd-factory@claude-marketplace`
+- Install: `/plugin install vsdd-factory@claude-mp`
 
 ## How this marketplace is structured
 
