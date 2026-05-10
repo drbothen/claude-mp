@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "vsdd-factory",
-      "version": "1.0.0-rc.15",
+      "version": "1.0.0-rc.16",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/drbothen/vsdd-factory.git",
