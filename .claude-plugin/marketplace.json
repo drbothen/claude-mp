@@ -25,6 +25,28 @@
         "factory",
         "sdlc"
       ]
+    },
+    {
+      "name": "secops-factory",
+      "version": "0.5.3",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/drbothen/secops-factory.git",
+        "path": "plugins/secops-factory",
+        "ref": "main"
+      },
+      "description": "ICS/OT Security Operations factory — CVE enrichment, event investigation, MITRE ATT&CK mapping, and adversarial quality review with convergence-driven analysis.",
+      "category": "security",
+      "tags": [
+        "security",
+        "ics",
+        "ot",
+        "vulnerability",
+        "secops",
+        "soc",
+        "enrichment",
+        "mitre-attack"
+      ]
     }
   ]
 }
