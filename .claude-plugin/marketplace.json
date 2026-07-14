@@ -28,7 +28,7 @@
     },
     {
       "name": "secops-factory",
-      "version": "0.5.3",
+      "version": "0.6.0",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/drbothen/secops-factory.git",
